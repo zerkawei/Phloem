@@ -1,0 +1,6 @@
+FileVersion = 1
+Dependencies = {corlib = "*", Phloem = "*"}
+
+[Project]
+Name = "PhloemTest"
+StartupObject = "PhloemTest.Program"
